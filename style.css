@@ -1,0 +1,69 @@
+body {
+    background-image: url(./image\ 22.png);
+    background-position: none;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.barre {
+    display: block;
+    width: 100%;
+    text-align: right;
+    padding: 20px 0px 10px 0px;
+}
+
+.barre li {
+    list-style: none;
+    display: inline-block;
+    margin: 10px 3px 10px 3px;
+}
+
+.barre li a {
+    text-decoration: none;
+    font-size: 2.3rem;
+    color: black;
+    font-weight: 400;
+    background-color: white;
+    padding: 0.8rem;
+}
+
+.entete {
+    padding: 15px 0px 21px 0px;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 700;
+    margin-top: 200px;
+
+}
+
+.entete p {
+    display: inline;
+    background-color: white;
+    padding: 1rem 2rem 1rem 2rem;
+}
+.plats{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 400;
+}
+.plats li{
+    text-align: center;
+    font-size: 1rem;
+    font-weight: 5000;
+}
+.contact{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 400;
+    color: blue;
+}
+.commandes{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 400;
+    color: blue;
+}
+.t4{color: darksalmon;}
